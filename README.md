@@ -1,35 +1,28 @@
-Hi, I'm Muhammad Abdullah 👋
+# Hi, I'm Muhammad Abdullah 👋
 
-BSCS student at COMSATS University Islamabad.
+BSCS Student at COMSATS University Islamabad.
 
-Currently focused on:
-- Learning Java
-- Improving problem-solving skills
-- Building consistency through daily coding
+Currently learning **Java, Problem Solving, and Web Development** while building projects consistently.
 
-I’m also an aspiring web developer and will be moving towards building real-world projects soon.
+## 🚀 Featured Projects
 
-## Current Work
+### ☕ Cafe Management System
+A console-based Java application featuring menu-driven interaction, file handling, and order management.
 
-- Solving Java problems daily
-- Documenting progress on GitHub
-- Sharing learning on LinkedIn
+### 📂 Student Management System
+A Python CLI application that manages student records using CSV file handling.
 
-## Goal
+### 🐄 Qurbani Distribution Manager
+A Java Swing desktop application for managing Qurbani meat distribution records with persistent storage.
 
-To become a skilled developer by staying consistent and building step by step.
+## 📚 Currently Working On
 
-<!--
-**abdullahcodes-dev/abdullahcodes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Daily Java problem solving
+- Building real-world projects
+- Improving Git & GitHub skills
+- Preparing for web development projects
 
-Here are some ideas to get you started:
+## 📫 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: https://linkedin.com/in/abdullah-cs
+- Email: mabdullah20089@gmail.com
