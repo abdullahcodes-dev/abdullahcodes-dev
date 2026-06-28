@@ -20,7 +20,7 @@ A Java Swing desktop application for managing Qurbani meat distribution records 
 - Daily Java problem solving
 - Building real-world projects
 - Improving Git & GitHub skills
-- Preparing for web development projects
+- Building web development projects
 
 ## 📫 Connect with Me
 
